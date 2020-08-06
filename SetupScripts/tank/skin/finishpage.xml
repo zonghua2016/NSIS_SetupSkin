@@ -6,7 +6,8 @@
 	
 	</VerticalLayout>
 	<VerticalLayout bkcolor="#FFFFFFFF" >	
-	<Button name="btnRun" padding="160,50,0,0" text="开始使用" font="2" bkcolor="#FF787BC2" textcolor="0xFFFFFFFF"  borderround="4,4" height="50" width="160" />
+	<!-- <Button name="btnRun" padding="160,50,0,0" text="开始使用" font="2" bkcolor="#FF787BC2" textcolor="0xFFFFFFFF"  borderround="4,4" height="50" width="160" /> -->
+	<Button name="btnRun" padding="160,50,0,0" width="160" height="50" normalimage="form\btn_run_normal.png" hotimage="form\btn_run_hovered.png" />
 	</VerticalLayout>
  </VerticalLayout>
 </Windows>
